@@ -1,6 +1,6 @@
 # Movie Ticket Booking System
 
-It's a online movie ticket booking  platfrom  where user's can book their favourite up comming movies tickets .
+It's an online movie ticket booking  platfrom  where user's can book their favourite up comming movies tickets .
 
 landing page
 
